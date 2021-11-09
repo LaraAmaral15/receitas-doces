@@ -1,0 +1,58 @@
+.cor-header{
+	background-color: #FFF5EE;
+}
+.fonte-titulo{
+	font-family: 'Great Vibes', cursive;
+	font-size: 35px;
+	width: bold;
+}
+.fonte-receitas{
+	font-family: 'Great Vibes', cursive;
+	font-size: 40px;
+	text-decoration: underline;
+	text-decoration-color: #F08080;
+
+}
+
+.tamanho-logo{
+	width: 70px; 
+	height: 64px;
+
+}
+
+.imagem-carrossel-um {
+	object-fit: cover;
+	object-position: 0 80%;
+	height: 550px;
+}
+
+.imagem-carrossel-dois {
+	object-fit: cover;
+	height: 550px;
+}
+
+.card-largura {
+	max-width: 18rem;
+}
+
+.borda-card {
+	border-color: #F08080;
+}
+
+.botao-cor-especial{
+	background-color: #F08080;
+	color: white;
+}
+.card-posicao-imagem {
+	object-fit: cover;
+	height: 200px;
+}
+
+.texto-rodape {
+	text-align: center;
+}
+
+article:hover {
+	border-color: #B22222;
+	font-size: 17px;
+}
